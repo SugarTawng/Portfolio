@@ -16,7 +16,7 @@ const Projects = () => {
 			role: "Frontend Developer",
 			technologies: "React",
 			features: "Light-Dark mode, Responsive",
-			livedemo: "",
+			livedemo: "https://portfolio-omega-drab-91.vercel.app/",
 			github: "https://github.com/SugarTawng/Portfolio",
 		},
 		{
